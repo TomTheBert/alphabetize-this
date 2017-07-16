@@ -1,0 +1,21 @@
+body {
+	background-color: #e8e8e8;
+	margin: 20px;
+}
+textarea {
+	resize: none;
+	max-width: 500px;
+	background-color: #edeeef !important;
+	font-size: 2em;
+}
+button {
+	margin-top: 15px;
+	min-width: 100px;
+	margin-right: 20px;
+}
+#sorted {
+	display: block;
+}
+#clearButton {
+	display: none;
+}
